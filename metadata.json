@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Gateway",
+  "description": "Local AI Data-Loss-Prevention (DLP) Proxy and Security Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
